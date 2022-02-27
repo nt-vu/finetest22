@@ -1,0 +1,131 @@
+{
+	"2051063451":{
+		"name" : "Nguyễn Tuấn Vũ",
+		"subject" : {
+			"TTUD":{
+				"name" : "Thuật toán ứng dụng",
+				"title_total" : 10,
+				"mark" : 100,
+				"exercise" : {
+					"BRICKSTACK":{
+						"mark" : 100.0,
+						"name" : "Chồng gạch xếp cao nhất",
+						"topic" : "Sắp xếp",
+						"timeLimit" : 1,
+						"submit_times" : 0
+						},
+					"FIBO3EASY":{
+						"mark" : 100.0,
+						"name" : "Số fibonacci bậc 3",
+						"topic" : "Đệ quy",
+						"timeLimit" : 1,
+						"submit_times" : 2
+						},
+					"FIBOMIN":{
+						"mark" : 100.0,
+						"name" : "Số fibonacci lớn hơn k",
+						"topic" : "Đệ quy, vòng lặp",
+						"timeLimit" : 1,
+						"submit_times" : 1
+						},
+					"FUNCTIONG":{
+						"mark" : 0.0,
+						"name" : "Hàm g(n) chia 4",
+						"topic" : "Đệ quy",
+						"timeLimit" : 1,
+						"submit_times" : 0
+						},
+					"GRIDEASY":{
+						"mark" : 0.0,
+						"name" : "Đường đi trên lưới",
+						"topic" : "Đệ quy, quy hoạch động",
+						"timeLimit" : 1,
+						"submit_times" : 0
+						},
+					"MAXCSARR":{
+						"mark" : 0.0,
+						"name" : "Dãy con chung tổng lớn nhất",
+						"topic" : "Quy hoạch động",
+						"timeLimit" : 1,
+						"submit_times" : 0
+						},
+					"SEQUENCE5":{
+						"mark" : 100.0,
+						"name" : "Số bộ 5 cấp số cộng",
+						"topic" : "Sắp xếp, tìm kiếm",
+						"timeLimit" : 1,
+						"submit_times" : 0
+						},
+					"SUBARRM":{
+						"mark" : 0.0,
+						"name" : "Số dãy con có tổng bằng M",
+						"topic" : "Quy hoạch động",
+						"timeLimit" : 1,
+						"submit_times" : 0
+						},
+					"SUMN":{
+						"mark" : 40.0,
+						"name" : "Phân tích N thành tổng các số dương",
+						"topic" : "Đệ quy, duyệt",
+						"timeLimit" : 1,
+						"submit_times" : 1
+						},
+					"SUMNM":{
+						"mark" : 0.0,
+						"name" : "Phân tích N thành tổng M số",
+						"topic" : "Đệ quy, duyệt",
+						"timeLimit" : 1,
+						"submit_times" : 0
+						}
+					}
+				}
+			}
+		},
+	"1":{
+		"name" : "Dương Kiều Trinh",
+		"subject" : {
+			"TTUD":{
+				"name" : "Thuật toán ứng dụng",
+				"title_total" : 10,
+				"mark" : 100,
+				"exercise" : {
+					"BRICKSTACK":{
+						"mark" : 100.0,
+						"name" : "Chồng gạch xếp cao nhất",
+						"topic" : "Sắp xếp",
+						"timeLimit" : 1,
+						"submit_times" : 0
+						},
+					"FIBO3EASY":{
+						"mark" : 100.0,
+						"name" : "Chồng gạch xếp cao nhất",
+						"topic" : "Đệ quy",
+						"timeLimit" : 1,
+						"submit_times" : 2
+						}
+					}
+				},
+			"NMLT":{
+				"name" : "Nhập môn lập trình",
+				"title_total" : 8,
+				"mark" : 50,
+				"exercise" : {
+					"BRICKSTACK":{
+						"mark" : 0.0,
+						"name" : "Chồng gạch xếp cao nhất",
+						"topic" : "Sắp xếp",
+						"timeLimit" : 1,
+						"submit_times" : 0
+						},
+					"FIBO3EASY":{
+						"mark" : 100.0,
+						"name" : "Chồng gạch xếp cao nhất",
+						"topic" : "Sắp xếp",
+						"timeLimit" : 1,
+						"submit_times" : 2
+						}
+					}
+				}
+			}
+	}
+}
