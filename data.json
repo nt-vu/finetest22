@@ -86,7 +86,7 @@
 		"subject" : {
 			"TTUD":{
 				"name" : "Thuật toán ứng dụng",
-				"title_total" : 10,
+				"title_total" : 2,
 				"mark" : 100,
 				"exercise" : {
 					"BRICKSTACK":{
@@ -107,7 +107,7 @@
 				},
 			"NMLT":{
 				"name" : "Nhập môn lập trình",
-				"title_total" : 8,
+				"title_total" : 2,
 				"mark" : 50,
 				"exercise" : {
 					"BRICKSTACK":{
