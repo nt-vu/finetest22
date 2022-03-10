@@ -1,6 +1,3 @@
-// 20220310111739
-// https://raw.githubusercontent.com/nt-vu/finetest22/main/data.json
-
 {
   "1": {
     "name": "Dương Kiều Trinh",
@@ -127,35 +124,36 @@
             "timeLimit": 1,
             "submit_times": 0
           }
-        }
+      	}
       },
-    "OLP":{
-    	"name": "Olympic vòng 2",
-        "title_total": 1000,
-        "mark": 0,
-        "exercise": {
-          "BIGSUM": {
-            "mark": 0,
-            "name": "Tính tổng",
-            "topic": "Đệ quy",
-            "timeLimit": 1,
-            "submit_times": 0
-          },
-          "PIE": {
-            "mark": 0,
-            "name": "Đếm số phương án thỏa mãn",
-            "topic": "Đệ quy",
-            "timeLimit": 1,
-            "submit_times": 0
-          },
-          "CUBIC": {
-            "mark": 0,
-            "name": "Số cách phân tích số",
-            "topic": "Đệ quy",
-            "timeLimit": 1,
-            "submit_times": 0
-          }
-    }
+	  "OLP":{
+			"name": "Olympic vòng 2",
+		    "title_total": 1000,
+		    "mark": 0,
+		    "exercise": {
+		      "BIGSUM": {
+		        "mark": 0,
+		        "name": "Tính tổng",
+		        "topic": "Đệ quy",
+		        "timeLimit": 1,
+		        "submit_times": 0
+		      },
+		      "PIE": {
+		        "mark": 0,
+		        "name": "Đếm số phương án thỏa mãn",
+		        "topic": "Đệ quy",
+		        "timeLimit": 1,
+		        "submit_times": 0
+		      },
+		      "CUBIC": {
+		        "mark": 0,
+		        "name": "Số cách phân tích số",
+		        "topic": "Đệ quy",
+		        "timeLimit": 1,
+		        "submit_times": 0
+		      }
+			}
+		}
     }
   }
 }
