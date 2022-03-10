@@ -128,7 +128,7 @@
       },
 	  "OLP":{
 			"name": "Olympic vòng 2",
-		    "title_total": 1000,
+		    "title_total": 3,
 		    "mark": 0,
 		    "exercise": {
 		      "BIGSUM": {
