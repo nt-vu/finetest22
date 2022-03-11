@@ -12,6 +12,7 @@
             "name": "Chồng gạch xếp cao nhất",
             "topic": "Sắp xếp",
             "timeLimit": 1,
+	    "testcase": 5,
             "submit_times": 0
           },
           "FIBO3EASY": {
@@ -19,6 +20,7 @@
             "name": "Chồng gạch xếp cao nhất",
             "topic": "Đệ quy",
             "timeLimit": 1,
+	    "testcase": 5,
             "submit_times": 2
           }
         }
@@ -33,6 +35,7 @@
             "name": "Chồng gạch xếp cao nhất",
             "topic": "Sắp xếp",
             "timeLimit": 1,
+	    "testcase": 5,
             "submit_times": 0
           },
           "FIBO3EASY": {
@@ -40,6 +43,7 @@
             "name": "Chồng gạch xếp cao nhất",
             "topic": "Sắp xếp",
             "timeLimit": 1,
+	    "testcase": 5,
             "submit_times": 2
           }
         }
@@ -59,6 +63,7 @@
             "name": "Chồng gạch xếp cao nhất",
             "topic": "Sắp xếp",
             "timeLimit": 1,
+	    "testcase": 5,
             "submit_times": 0
           },
           "FIBO3EASY": {
@@ -66,6 +71,7 @@
             "name": "Số fibonacci bậc 3",
             "topic": "Đệ quy",
             "timeLimit": 1,
+	    "testcase": 5,
             "submit_times": 2
           },
           "FIBOMIN": {
@@ -73,6 +79,7 @@
             "name": "Số fibonacci lớn hơn k",
             "topic": "Đệ quy, vòng lặp",
             "timeLimit": 1,
+	    "testcase": 5,
             "submit_times": 1
           },
           "FUNCTIONG": {
@@ -80,6 +87,7 @@
             "name": "Hàm g(n) chia 4",
             "topic": "Đệ quy",
             "timeLimit": 1,
+	    "testcase": 5,
             "submit_times": 0
           },
           "GRIDEASY": {
@@ -87,6 +95,7 @@
             "name": "Đường đi trên lưới",
             "topic": "Đệ quy, quy hoạch động",
             "timeLimit": 1,
+	    "testcase": 5,
             "submit_times": 0
           },
           "MAXCSARR": {
@@ -94,6 +103,7 @@
             "name": "Dãy con chung tổng lớn nhất",
             "topic": "Quy hoạch động",
             "timeLimit": 1,
+	    "testcase": 5,
             "submit_times": 0
           },
           "SEQUENCE5": {
@@ -101,6 +111,7 @@
             "name": "Số bộ 5 cấp số cộng",
             "topic": "Sắp xếp, tìm kiếm",
             "timeLimit": 1,
+	    "testcase": 5,
             "submit_times": 0
           },
           "SUBARRM": {
@@ -108,6 +119,7 @@
             "name": "Số dãy con có tổng bằng M",
             "topic": "Quy hoạch động",
             "timeLimit": 1,
+	    "testcase": 5,
             "submit_times": 0
           },
           "SUMN": {
@@ -115,6 +127,7 @@
             "name": "Phân tích N thành tổng các số dương",
             "topic": "Đệ quy, duyệt",
             "timeLimit": 1,
+	    "testcase": 5,
             "submit_times": 1
           },
           "SUMNM": {
@@ -122,6 +135,7 @@
             "name": "Phân tích N thành tổng M số",
             "topic": "Đệ quy, duyệt",
             "timeLimit": 1,
+	    "testcase": 5,
             "submit_times": 0
           }
       	}
@@ -136,6 +150,7 @@
 		        "name": "Tính tổng",
 		        "topic": "Đệ quy",
 		        "timeLimit": 1,
+		        "testcase": 20,
 		        "submit_times": 0
 		      },
 		      "PIE": {
@@ -143,6 +158,7 @@
 		        "name": "Đếm số phương án thỏa mãn",
 		        "topic": "Đệ quy",
 		        "timeLimit": 1,
+		        "testcase": 20,
 		        "submit_times": 0
 		      },
 		      "CUBIC": {
@@ -150,7 +166,8 @@
 		        "name": "Số cách phân tích số",
 		        "topic": "Đệ quy",
 		        "timeLimit": 1,
-		        "submit_times": 0
+		        "testcase": 10,
+      		        "submit_times": 0
 		      }
 			}
 		}
